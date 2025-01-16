@@ -1,6 +1,6 @@
 # R0.1.0 Preview 1 Dev-3
 
-(NOT Open Source)
+(NOT Open-Sourced)
 
 1. Fix some bugs when running Minecraft Sodium mod.
 
