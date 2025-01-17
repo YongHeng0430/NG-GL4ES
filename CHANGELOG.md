@@ -12,4 +12,4 @@
 
 3. Be able to run some Minecraft shaders with Iris or Optifine.
 
-4. Use OpenGL ES 3.x backend.
+4. Add OpenGL ES 3.x backend.
