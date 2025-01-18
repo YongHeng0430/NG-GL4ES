@@ -18,6 +18,17 @@ set(CMAKE_BUILD_TYPE Release)
 
 include_directories(${CMAKE_SOURCE_DIR}/include )
 
+#NOX11
+if(NOX11)
+    add_definitions(-DNOX11)
+endif()
+
+#NOEGL
+if(NOEGL)
+    add_definitions(-DNOEGL)
+    add_definitions(-DNOX11)
+endif()
+
 set(C_SRC_FILES
         src/gl/arbconverter.c
         src/gl/arbgenerator.c
