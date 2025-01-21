@@ -45,7 +45,7 @@ License
 
 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra): MIT License
 
-This Project (for modified code): GPL-v3 License.
+This Project (for modified code): GPL-3.0 License.
 
 Please see [LICENSE](https://github.com/BZLZHH/NG-GL4ES/blob/main/LICENSE).
 
