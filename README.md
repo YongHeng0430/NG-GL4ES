@@ -33,7 +33,7 @@ Features
 Change Log
 ===
 
-Please see [CHANGELOG.md](https://github.com/BZLZHH/NG-GL4ES/blob/main/CHANGELOG.md)
+Please see [CHANGELOG.md](https://github.com/BZLZHH/NG-GL4ES/blob/public/CHANGELOG.md)
 
 Build
 ====
@@ -47,7 +47,7 @@ License
 
 This Project (for modified code): GPL-3.0 License.
 
-Please see [LICENSE](https://github.com/BZLZHH/NG-GL4ES/blob/main/LICENSE).
+Please see [LICENSE](https://github.com/BZLZHH/NG-GL4ES/blob/public/LICENSE).
 
 
 Third party components
