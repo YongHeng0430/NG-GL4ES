@@ -1,3 +1,21 @@
+# Release 0.1.0
+
+(NOT Open-Sourced)
+
+1. Completely be able to run Minecraft Sodium mod correctly.
+
+2. Highly increase the performance when rendering Minecraft shaders with Optifine and Iris.
+
+3. Highly increase the performance when running Minecraft Sodium mod.
+
+4. Be able to run more and more Minecraft shaders with Iris.
+
+5. Be able to run Minecraft Modern UI mod.
+
+6. Fix the shadows problem in Minecraft Open4ES shaders.
+
+7. Be able to render Minecraft water reflections with Iris and some shaders.
+
 # R0.1.0 Preview 1 Dev-3
 
 (NOT Open-Sourced)

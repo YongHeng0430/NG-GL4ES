@@ -5,7 +5,7 @@ Krypton Wrapper
 > 
 > The newer versions of this project WILL NOT be open-sourced for a period of time.
 >
-> The latest open-source version:
+> The latest open-sourced version:
 > 
 > **Release 0.1.0 Preview 1 Dev-2**
 
@@ -13,7 +13,7 @@ Krypton Wrapper
 > 
 > The latest version:
 > 
-> **Release 0.1.0 Preview 1 Dev-3**
+> **Release 0.1.0**
 >
 > See [Releases](https://github.com/BZLZHH/NG-GL4ES/releases)
 
@@ -24,9 +24,9 @@ This project is making it support more OpenGL functions.
 Features
 ====
 
-1. Almost Be able to run Minecraft [Sodium](https://github.com/CaffeineMC/sodium) mod;
+1. Be able to run Minecraft [Sodium](https://github.com/CaffeineMC/sodium) mod;
 
-2. Be able to render a few minecraft shaders;
+2. Be able to render some minecraft shaders;
 
 3. Be able to run Minecraft in high version(like Minecraft 1.21.4).
 
