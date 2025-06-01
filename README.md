@@ -9,7 +9,7 @@ Krypton Wrapper
 > 
 > The latest version:
 > 
-> **Release 0.1.0**
+> **Release 0.2.0**
 >
 > See [Releases](https://github.com/BZLZHH/NG-GL4ES/releases)
 
