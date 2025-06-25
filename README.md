@@ -11,7 +11,7 @@ Krypton Wrapper
 > 
 > **Release 0.2.0**
 >
-> See [Releases](https://github.com/BZLZHH/NG-GL4ES/releases)
+> See [Releases](https://github.com/YongHeng0430/NG-GL4ES/releases)
 
 **Krypton Wrapper** *(also called Next Generation GL4ES/NG-GL4ES)* is a fork from [gl4es](https://github.com/ptitSeb/gl4es) and [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra). 
 
